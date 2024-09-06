@@ -153,21 +153,19 @@
   }
   
   .site-header {
-      /*font-family:Verdana, Geneva, Tahoma, sans-serif;
-      text-align: center;
-      font-size: 150%;
-      color: rgb(73, 173, 26);*/
-      text-align: center;
+      margin: auto;
+      width: 50%;
+      display:flex;
   }
   
 .logo {
-    width: 10%;
+    width: 20%;
     height: auto;
 }
 
-@media screen and (max-width: 600px) {
+/* @media screen and (max-width: 600px) {
     .logo {
-      width: 60%;
+      width: 50%;
       height: auto;
     }
-}
+} */
