@@ -104,7 +104,15 @@
   font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 
-.header-twitter {
+.lnk-btns {
+  padding-top: 9%;
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 2%;
+  font-size:xx-large;
+}
+
+/* .header-twitter {
   float: left;
   text-align: center;
   font-size: 60%;
@@ -118,7 +126,7 @@
   font-size: 60%;
   width: 50%;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
+} */
 
 .carousel{
   width: 700px;
